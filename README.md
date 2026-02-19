@@ -3,7 +3,7 @@
 
 
 
-MERN Stack Developer with 4+ years of experience in building dynamic and scalable web applications. My technical proficiency spans HTML, CSS, JavaScript, and TypeScript, alongside modern front-end frameworks such as React and Next.js. On the server side, I am skilled in using Node.js, Express, and Nest.js to build efficient and secure backend systems. I am passionate about utilizing my skills to tackle complex challenges and drive business growth. My strong problem-solving abilities, attention to detail, and collaborative spirit make me a valuable addition to any development team.
+Frontend-focused developer with 5 years of experience in building dynamic and scalable web applications. My technical proficiency spans HTML, CSS, JavaScript, and TypeScript, alongside modern front-end frameworks such as React, Next.js, Angular and React native. On the server side, I am skilled in using Node.js, Express, PhP and Python to build efficient and secure backend systems. I am passionate about utilizing my skills to tackle complex challenges and drive business growth. My strong problem-solving abilities, attention to detail, and collaborative spirit make me a valuable addition to any development team.
 
 ---
 
