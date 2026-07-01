@@ -1,5 +1,5 @@
 # 👋 I'm Hamza Rashid
-### Software Engineer
+### Full Stack Developer
 
 
 
