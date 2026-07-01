@@ -17,12 +17,18 @@ Frontend-focused developer with 5 years of experience in building dynamic and sc
 
 ## 💼 Experience
 
-- **Frontend Lead at ElitX Technologies** 
+- **Senior Software Engineer at ElitX Technologies** 
 
   Led multiple projects as the Lead Frontend Developer, steering teams to success. Engineered intricate functionalities to elevate project sophistication. Played an integral role as an Integration Expert for combining APIs and third-party components for project integration.
   - Transformed PSD and Figma designs into responsive HTML/CSS layouts, utilising enhanced UI.
   - Participated in a project focused on application reports, utilizing React.js, Material UI, and a combination of GraphQL queries, mutations, and REST APIs to deliver comprehensive reporting functionality.
   - Introduced drag-and-drop functionality for Nested containers using React and TypeScript with Styled Components, empowering users to customize the arrangement effortlessly.
+
+- **Senior ReactJS TypeScript Developer at Noumena** 
+
+  - Introduced drag-and-drop functionality for both tools and sections, empowering users to customize the arrangement effortlessly.
+  - Implemented dynamic icons for on-hover interactions, allowing users to efficiently modify section and tool positions.
+  - Engineered a flexible sidebar for comprehensive section customization, including settings, types, colors, etc., providing Noum owners with diverse options to create an appealing Noum view.
 
 
 ## 🎯 Key Project
