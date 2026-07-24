@@ -3,7 +3,7 @@
 
 
 
-Frontend-focused developer with 5 years of experience in building dynamic and scalable web applications, and 1.5 year of full-stackexperience delivering end-to-end solutions. My technical proficiency spans HTML, CSS, JavaScript, and TypeScript, alongsidemodernfront-end frameworks such as React, Next.js, Angular and React native. On the server side, I am skilled in using Node.js, Express, PhPandPythonto build efficient and secure backend systems. I am passionate about utilizing my skills to tackle complex challenges and drive businessgrowth. My strong problem-solving abilities, attention to detail, and collaborative spirit make me a valuable addition to any developmentteam.
+Full-stack Software Engineer with 5+ years of experience across frontend and backend development, including 2+ years delivering end-to-end solutions with PHP, Laravel, and CodeIgniter. Passionate about backend architecture and design patterns, with hands-on experience using Redis for caching and Laravel Queues for background job processing, and practical exposure to microservices-oriented architecture on Vendolyx, a multi-model e-commerce platform (Single Store, Multivendor, Dropshipping). Frontend expertise spans React, Next.js, and Angular; comfortable picking up Vue.js/Vuex quickly given strong fundamentals across multiple component-based frameworks. Proven track record integrating complex APIs and third-party systems, leading frontend teams, and delivering high-quality, responsive UI from Figma/PSD designs. Strong problem-solver with a collaborative, detail-oriented approach to shipping production software.
 
 ---
 
@@ -33,6 +33,15 @@ Frontend-focused developer with 5 years of experience in building dynamic and sc
 
 ## 🎯 Key Project
 
+
+### Vendolyx — Laravel, React,inertiajs, MySQL, Redis (Full-Stack)
+
+  - Built Vendolyx, a high-fidelity, premium e-commerce ecosystem supporting Single Store, Multivendor, and Dropshipping configurations under a           single unified codebase.
+  - Designed backend architecture using a microservices-oriented approach, separating vendor, product, and order concerns for scalability across          store models.
+  - Used Redis for caching and Laravel Queues to handle background jobs such as order processing and notifications, improving backend performance.
+  - Developed both frontend interfaces and PHP/Laravel backend services to support multiple store models from a shared architecture.
+  - Designed and implemented vendor and product management features, order handling, and marketplace transaction flows across store types.
+    
 ### Admin Portal
 
   - Independently developed a complete Admin Portal using Next.js, TypeScript, Tailwind CSS, and GraphQL with Apollo Client.
